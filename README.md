@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pat~!
-- 👀 I’m interested in Algorand, organisation, and understanding the fundamentals of knowledge aquisition. My dream is to help create an STG.
+- 👀 I’m interested in Algorand, organisation, writing, and teaching. My dream is to help create an STG.
 - 🌱 I’m currently learning Reach, and working my way towards Python, Teal, and mastering my vim + colemak setup.
 - 📫 You can reach me by sending an email to patrick.francis.webster@gmail.com
 - 
