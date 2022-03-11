@@ -7,7 +7,7 @@ const Player = {
 export const main = Reach.App(
   {}, [['Alice', Player], ['Bob', Player]], (A, B) => {
         A.only(() => {
-        // this means that only A performs this action: handA is only known to Alice
+        // this means that only A performs this action: handA is only known to Alice. Need to update this to a more modern syntax.
             const handA = declassify(interact.getHand());
         // binds the gethand result from the frontend and declassifies it
         });
